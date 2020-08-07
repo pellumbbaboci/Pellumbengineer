@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<img align="left" alt="Pellumbengineer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pellumbengineer&show_icons=true&hide_border=true" />
+<img align="left" alt="Pellumbengineer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pellumbengineer&sshow_icons=true&theme=radical/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pellumbengineer&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 [instagram]: https://instagram.com/pellumb_baboci
